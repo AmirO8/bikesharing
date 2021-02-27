@@ -17,4 +17,4 @@ People born in 1969 were the highest number of riders but when you subscription 
 Overall this could be a success in Des Moines, the correct demgraphic has to be reached and there has to be an adequete number of younger rides as they are the ones most likely to subscribe for longer. Riders that are older may just try the bike share once and then drop it. We need consistent users and the data shows that the 1990's are the group to reach.
 
 # Link to Tableau Story
-[link to dashboard](https://public.tableau.com/profile/amir5326#!/vizhome/CompletedChallenge/TripsStory)
+[Link to dashboard](https://public.tableau.com/profile/amir5326#!/vizhome/CompletedChallenge/TripsStory)
